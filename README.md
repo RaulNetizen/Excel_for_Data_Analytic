@@ -8,7 +8,7 @@ Analizar el desempeño comercial y los patrones de consumo de los clientes, inte
 - Integración de datos de clientes, productos, ventas y vendedores.
 - Limpieza, validación y normalización de datos.
 - Análisis del comportamiento de compra y patrones de consumo.
-- Evaluación del desempeño de ventas por producto, cliente y vendedor.
+- Evaluación del desempeño de ventas por producto, ciudad y vendedor.
 - Construcción de KPIs y dashboards interactivos en Excel.
 🛠️ Tecnologías y herramientas
 Microsoft Excel
